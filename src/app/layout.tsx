@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'HabitForge AI',
+  title: 'Aurora Rayes Habit Agent',
   description: 'Build life-changing habits with AI coaching',
 }
 

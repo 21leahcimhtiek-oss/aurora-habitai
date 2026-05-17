@@ -1,14 +1,22 @@
 {
   "id": "app205-habit-ai",
-  "name": "App205 Habit AI",
-  "tagline": "AI-powered mobile solution",
-  "description": "AI-powered app205-habit-ai application built for Aurora Market. Modern, responsive design with SaaS monetization.",
-  "category": "mobile",
-  "tags": ["ai", "mobile"],
-  "url": "https://auroramarket.org/app205-habit-ai",
-  "demo": "https://21leahcimhtiek-oss.github.io/app205-habit-ai",
-  "repo": "https://github.com/21leahcimhtiek-oss/app205-habit-ai",
-  "stack": ["HTML", "CSS", "JavaScript"],
+  "name": "Aurora Rayes Habit Agent",
+  "tagline": "AI habit coaching, streak tracking, and behavior insights",
+  "description": "Aurora Rayes Habit Agent is an Aurora Rayes ecosystem product for builders, students, founders, coaches, and teams improving daily execution.",
+  "category": "habits",
+  "tags": [
+    "aurora-rayes",
+    "ai",
+    "habits"
+  ],
+  "url": "https://aurora-habitai.example",
+  "demo": "https://aurora-habitai.example/demo",
+  "repo": "https://github.com/21leahcimhtiek-oss/aurora-habitai",
+  "stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
   "status": "mvp",
   "version": "1.0.0",
   "author": "Aurora Rayes LLC",
